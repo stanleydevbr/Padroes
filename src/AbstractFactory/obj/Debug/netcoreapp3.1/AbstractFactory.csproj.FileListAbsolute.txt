@@ -1,0 +1,13 @@
+D:\Estudos\PADROES\src\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.exe
+D:\Estudos\PADROES\src\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.deps.json
+D:\Estudos\PADROES\src\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.json
+D:\Estudos\PADROES\src\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.dev.json
+D:\Estudos\PADROES\src\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.dll
+D:\Estudos\PADROES\src\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.pdb
+D:\Estudos\PADROES\src\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csprojAssemblyReference.cache
+D:\Estudos\PADROES\src\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfoInputs.cache
+D:\Estudos\PADROES\src\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfo.cs
+D:\Estudos\PADROES\src\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\Estudos\PADROES\src\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.dll
+D:\Estudos\PADROES\src\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.pdb
+D:\Estudos\PADROES\src\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.genruntimeconfig.cache
