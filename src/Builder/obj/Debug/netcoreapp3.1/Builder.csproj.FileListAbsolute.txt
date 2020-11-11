@@ -1,0 +1,13 @@
+D:\Estudos\PADROES\src\Builder\obj\Debug\netcoreapp3.1\Builder.csprojAssemblyReference.cache
+D:\Estudos\PADROES\src\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+D:\Estudos\PADROES\src\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+D:\Estudos\PADROES\src\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.CoreCompileInputs.cache
+D:\Estudos\PADROES\src\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+D:\Estudos\PADROES\src\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+D:\Estudos\PADROES\src\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+D:\Estudos\PADROES\src\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+D:\Estudos\PADROES\src\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+D:\Estudos\PADROES\src\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+D:\Estudos\PADROES\src\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+D:\Estudos\PADROES\src\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
+D:\Estudos\PADROES\src\Builder\obj\Debug\netcoreapp3.1\Builder.genruntimeconfig.cache

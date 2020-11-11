@@ -15,7 +15,7 @@ A aplicação deste padrão traz como benefício principla o isolamento de class
 * `Abstract Factory` - Declara uma interface para operações que criam objetos produtos abstratos
 * `Concrete Factory` - Implementa as operações que criam objetos produtos concretos;
 * `Abstract Product` - Define um objeto produto a ser criado pela correspondente fábrica concreta que implementa a interface de Abstract Product;
-* Client - Usa somente as interface declaradas pelas classes Abstract Factory e Abstract Product;
+* `Client` - Usa somente as interface declaradas pelas classes Abstract Factory e Abstract Product;
 
 ## Exemplo: 
 Supndo que temos que construir um controle de acesso a dados para dois tipos de bancos distintos, SQL Server e Oracle. 
