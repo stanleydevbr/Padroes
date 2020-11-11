@@ -25,6 +25,5 @@ A aplicação deste padrão traz alguns benefícios, como permitir variar a repr
     <li>Product - Representa o objeto complexo em construção, concrete Builder contrói a representação interna do produto e define o processo pelo qual ele é montado, 
     inclui classes que definem as partes constituintes, inclusive as interfaces para a montagem das partes do resultado final.</li>
 </ul>
-![Builder](https://github.com/stanleydevbr/Padroes/tree/master/src/Builder/images/Builder.png)
 
-
+![description](Builder/images/Builder.png))
