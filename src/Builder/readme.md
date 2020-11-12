@@ -26,5 +26,4 @@ A aplicação deste padrão traz alguns benefícios, como permitir variar a repr
     inclui classes que definem as partes constituintes, inclusive as interfaces para a montagem das partes do resultado final.</li>
 </ul>
 
-![](./images/builder.png = 250x)
-<img src="images/builder.png" width = "400">
+<img src="images/builder.png" width = "100%">
