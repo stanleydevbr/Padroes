@@ -1,0 +1,13 @@
+D:\Estudos\PADROES\src\factorymethod\obj\Debug\netcoreapp3.1\FactoryMethod.csprojAssemblyReference.cache
+D:\Estudos\PADROES\src\factorymethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfoInputs.cache
+D:\Estudos\PADROES\src\factorymethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfo.cs
+D:\Estudos\PADROES\src\factorymethod\obj\Debug\netcoreapp3.1\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\Estudos\PADROES\src\factorymethod\bin\Debug\netcoreapp3.1\FactoryMethod.exe
+D:\Estudos\PADROES\src\factorymethod\bin\Debug\netcoreapp3.1\FactoryMethod.deps.json
+D:\Estudos\PADROES\src\factorymethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.json
+D:\Estudos\PADROES\src\factorymethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.dev.json
+D:\Estudos\PADROES\src\factorymethod\bin\Debug\netcoreapp3.1\FactoryMethod.dll
+D:\Estudos\PADROES\src\factorymethod\bin\Debug\netcoreapp3.1\FactoryMethod.pdb
+D:\Estudos\PADROES\src\factorymethod\obj\Debug\netcoreapp3.1\FactoryMethod.dll
+D:\Estudos\PADROES\src\factorymethod\obj\Debug\netcoreapp3.1\FactoryMethod.pdb
+D:\Estudos\PADROES\src\factorymethod\obj\Debug\netcoreapp3.1\FactoryMethod.genruntimeconfig.cache
