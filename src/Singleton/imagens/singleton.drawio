@@ -1,0 +1,19 @@
+<mxfile host="65bd71144e" modified="2020-11-24T23:28:32.304Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.50.1 Chrome/83.0.4103.122 Electron/9.2.1 Safari/537.36" version="13.6.5" etag="Cx6qun7i6t2merpRv2nP">
+    <diagram id="A7KcoG1OKhPNiW_Xpr2S" name="Page-1">
+        <mxGraphModel dx="726" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.01;entryY=0.629;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;dashed=1;" edge="1" parent="1" source="6" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Singleton&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ static: Instance()&lt;br&gt;+ SingletonOperation()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ GetSingletonData()&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ static uniqueInstance&lt;br&gt;+ SingletonData&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#F0F0F0;fillColor=#F0F0F0;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="100" width="190" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="return uniqueInstance" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=middle;align=center;spacingTop=-6;fillColor=#A3A3A3;fontColor=#000000;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="130" width="200" height="70" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
