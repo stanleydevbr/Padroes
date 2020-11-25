@@ -1,4 +1,4 @@
-!/src/Singleton/obj/*
-!/src/Singleton/bin/*
-!/src/Prototype/obj/*
-!/src/Prototype/bin/*
+src/Singleton/obj/*
+src/Singleton/bin/*
+src/Prototype/obj/*
+src/Prototype/bin/*
