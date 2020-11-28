@@ -20,6 +20,6 @@ Nível 4
 
 ### Diagrama
 
-<img src="imagens/adapter.png" width = "100%">
+<img src="imagens/Adapter.png" width = "100%">
 
 
