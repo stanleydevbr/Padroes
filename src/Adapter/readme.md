@@ -19,6 +19,7 @@ Nível 4
 * **Adapter** - adapta a interface do Adaptee à interface do Tarquet;
 
 ### Diagrama
+
 <img src="imagens/adapter.png" width = "100%">
 
 
