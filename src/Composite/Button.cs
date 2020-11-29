@@ -9,12 +9,10 @@ namespace Composite
         {
             Console.WriteLine("Não é possível adicionar elementos a este componente");
         }
-
         public override void Display()
         {
             Console.WriteLine(_name);
         }
-
         public override void Remove(Component c)
         {
             Console.WriteLine("Não é possível remover elemento");

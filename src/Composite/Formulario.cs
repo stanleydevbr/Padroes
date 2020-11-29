@@ -11,12 +11,10 @@ namespace Composite
         {
             
         }
-
         public override void Add(Component c)
         {
             this._children.Add(c);
         }
-
         public override void Display()
         {
             Console.WriteLine(_name);
@@ -24,7 +22,6 @@ namespace Composite
                 item.Display();
             }
         }
-
         public override void Remove(Component c)
         {
             this._children.Remove(c);
