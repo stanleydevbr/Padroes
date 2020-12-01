@@ -1,5 +1,5 @@
 ## COMMAND
-##### tags: `Padrões de projetos` `Padrões estruturais`
+##### tags: `Padrões de projetos` `Padrões comportamentais`
 
 ### Intenção
 Encapsular uma requisição como um objeto, desse modo pode-se parametrizar clientes com diferentes requisições, com suporte para enfileirar, logar e desfazer essas requisições.
